@@ -6,11 +6,9 @@ DIR=array	\
     bytelock	\
     cc		\
     cohort	\
-    ec		\
     epoch	\
     fifo	\
     hp		\
-    hs		\
     rhs		\
     ht		\
     pflock	\
